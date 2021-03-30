@@ -1,0 +1,80 @@
+.carousel-item > img {
+  height: 300px;
+  filter: blur(4px);
+}
+@media (max-width: 600px) {
+  .carousel-item > img {
+    height: 200px;
+  }
+}
+.carousel-caption > h5 {
+  color: black;
+  padding-bottom: 20px;
+}
+.carousel-caption > p {
+  color: black;
+  padding-bottom: 80px;
+}
+.carousel {
+  padding-bottom: 20px;
+}
+.section-2 {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.section-3 {
+  padding: 15px;
+}
+@media (max-width: 600px) {
+  .rounded-circle {
+    width: 250px !important;
+    height: 150px !important;
+  }
+}
+.b2b {
+  padding-left: 15px !important;
+}
+.b3b {
+  padding-top: 100px;
+}
+
+@media (max-width: 600px) {
+  .b3b {
+    padding-top: 10px;
+  }
+}
+.card-title {
+  color: #000;
+}
+.card-text {
+  color: #000;
+}
+.section-4 {
+  background-color: rgb(0, 0, 0);
+}
+
+.s4s {
+  color: #fff;
+}
+.b4b {
+  padding: 15px;
+}
+
+.section-5 {
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: rgb(133, 133, 133);
+}
+.b5b {
+  background-color: rgb(133, 133, 133);
+}
+.section-6 {
+  padding-top: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 20px;
+}
+.s6s {
+  color: #000;
+}
